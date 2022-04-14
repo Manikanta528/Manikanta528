@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm ManiKanta Cheepurupalli</h1>
 
-- 🌱 I’m currently learning **Java+DSA, Full-Stack **
+- 🌱 I’m currently learning Java+DSA, Full-Stack
 
 - ⚡ Fun fact **I think i'm funny but i'm not.**
 
