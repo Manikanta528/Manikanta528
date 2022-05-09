@@ -1,6 +1,6 @@
 <h1 align="left">Hi 👋, I'm ManiKanta Cheepurupalli</h1>
 
-- 👀 I'm interested in Web Developement, UI/UX design, Crypto.
+- 👀 I'm interested in Web Developement, cp.
 - 🌱 I’m currently learning Web Development, java.
 - 💕 I'm looking forward to collaborating on real projects.
 - ⚡ Fun fact **I think i'm funny but i'm not.**
