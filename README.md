@@ -23,7 +23,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta528&" alt="manikanta528" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta528&" alt="manikanta528" height="115" /></p>
 
 
 
