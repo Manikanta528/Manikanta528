@@ -1,31 +1,35 @@
-<h1 align="left">Hi 👋, I'm ManiKanta Cheepurupalli</h1>
+<h1 align="left">Hi, I'm ManiKanta Cheepurupalli <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=manikanta528&label=Profile%20views&color=0e75b6&style=flat" alt="manikanta528" /> </p>
-
-- 👀 I'm interested in Web Developement, CP.
-- 🌱 I’m currently learning **Java+DSA, Web Development**
-- 💕 I'm looking forward to collaborating on real projects.
-- ⚡ Fun fact **I think i'm funny but i'm not.**
-
-##  Connect with me:
-
-<p align="left">
-
-<p align="left"> <a href="https://twitter.com/manikanta528" target="blank"><img src="https://img.shields.io/twitter/follow/manikanta528?logo=twitter&style=for-the-badge" alt="manikanta528" /></a> </p>
-<a href = "https://twitter.com/manikanta528"><img src="https://img.icons8.com/fluent/48/000000/twitter.png" width="40px"/></a>
-&nbsp
-<a href = "https://www.linkedin.com/in/manikanta528/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" width="40px"/></a>&nbsp
-<a href = "https://dribbble.com/manikanta528"><img src="https://img.icons8.com/fluency/344/dribbble.png" width="40px"/></a>&nbsp
-<a href = "https://www.instagram.com/manikanta_63030/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="40px"/></a>&nbsp
-<a href="https://auth.geeksforgeeks.org/user/chmanikanta528" target="blank"><img src="https://img.icons8.com/color/452/GeeksforGeeks.png" width="40" /></a>&nbsp&nbsp
-<a href="https://www.leetcode.com/chmanikanta528" ><img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/LeetCode_logo_white_no_text.svg/1200px-LeetCode_logo_white_no_text.svg.png"  width="30" /></a>
-</p>
+- 🌱 I’m currently learning **DSA and Web Development**
+- 🔭 I'm looking forward to collaborating on real projects.
+- 🎥 Love Sitcoms, Sci fi Movies & Pop Music.
+- ⚡ Fun fact I play games and go to the GYM very often.
 
 
+####  Languages & Tools:
+![Skills Badge](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=ED8B00)
+![Skills Badge](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=00599C)
+![Skills Badge](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=E34F26)
+![Skills Badge](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Skills Badge](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=while)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manikanta528&" alt="manikanta528" height="115" /></p>
+![Skills Badge](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql)
+![Skills Badge](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git)
+![Skills Badge](https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=figma)
+
+####  Connect with me:
+[![Twitter Badge](https://img.shields.io/badge/-@manikanta528-black?style=for-the-badge&logo=twitter&link=https://twitter.com/Manikanta528)](https://twitter.com/manikanta528) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/manikanta528/) [![Dribbble Badge](https://img.shields.io/badge/-Dribbble-black?style=for-the-badge&logo=dribbble)](https://dribbble.com/manikanta528) 
+
+####  Coding Profiles:
+[![Leetcode Badge](https://img.shields.io/badge/-Leetcode-black?style=for-the-badge&logo=leetcode&link=https://www.leetcode.com/chmanikanta528)](https://www.leetcode.com/chmanikanta528)
+[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-black?style=for-the-badge&logo=geeksforgeeks&link=https://auth.geeksforgeeks.org/user/chmanikanta528/practice/)](https://auth.geeksforgeeks.org/user/chmanikanta528/practice/)
 
 
+
+<!-- <a href="http://www.github.com/manikanta528"><img src="https://activity-graph.herokuapp.com/graph?username=manikanta528&bg_color=1c1917&color=ffffff&line=eb9135&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
+
+####  Github stats:
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manikanta528&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 
 
