@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm ManiKanta Cheepurupalli <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
+<!-- <h1 align="left">Hi, I'm ManiKanta Cheepurupalli <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi"></h1>
 
 - 🌱 I’m currently learning **DSA and Web Development**
 - 🔭 I'm looking forward to collaborating on real projects.
@@ -27,12 +27,10 @@
 
 
 <!-- <a href="http://www.github.com/manikanta528"><img src="https://activity-graph.herokuapp.com/graph?username=manikanta528&bg_color=1c1917&color=ffffff&line=eb9135&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>-->
-
+<!-- 
 ####  Github stats:
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manikanta528&theme=dark&hide_border=true)](https://git.io/streak-stats)
-
-
-
+ -->
 
 
 
